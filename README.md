@@ -9,7 +9,8 @@ This is a **Password Manager app** built using **Swift (Storyboard)** and **Core
 - **User authentication (optional, if implemented)**  
 
 ## 🎓 About the Project  
-I developed this project as part of my **university studies**, where I learned to work with **Swift Storyboard** as an easy starting point and enhanced my **iOS development skills** using Swift and Core Data.  
+I developed this project as part of my **personal study**, building on the **iOS development skills** I learned at university. Through this project, I explored **Swift Storyboard** for an easy start and gained hands-on experience with **Core Data** (something new to me), local storage, and UI design in Swift.  
+
 
 ## 🚀 Technologies Used  
 - Swift  
