@@ -6,7 +6,7 @@ This is a **Password Manager app** built using **Swift (Storyboard)** and **Core
 - **Secure password storage** using Core Data  
 - **Intuitive UI** designed with Storyboard  
 - **Basic CRUD operations** (Create, Read, Update, Delete)  
-- **User authentication (optional, if implemented)**  
+- **User authentication **  
 
 ## 🎓 About the Project  
 I developed this project as part of my **personal study**, building on the **iOS development skills** I learned at university. Through this project, I explored **Swift Storyboard** for an easy start and gained hands-on experience with **Core Data** (something new to me), local storage, and UI design in Swift.  
